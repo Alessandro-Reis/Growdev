@@ -64,15 +64,17 @@ body {
 
 .title-text {
     margin-top: 1em;
-    font-weight: 600;
+        font-weight: 600;
 }
 
 .title-subtitle {
     margin: 1em 0;
+    text-align: justify;
 }
 
 .text {
     padding: 5px 17px;
+    text-align: justify;
 }
 
 .links-redes-sociais {
