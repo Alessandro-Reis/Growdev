@@ -26,8 +26,8 @@ body {
 }
 
 .card-image {
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
     border-radius: 50%;
     margin-top: 1em;
 }
@@ -43,7 +43,7 @@ body {
 }
 
 #btn-sobre {
-    border-radius: 20px;
+    border-radius: 50%;
     padding: 5px 25px;
     background-color: black !important;
     font-weight: 600;
@@ -52,7 +52,7 @@ body {
 
 #btn-projetos {
     border: 2px solid black;
-    border-radius: 20px;
+    border-radius: 50%;
     padding: 5px 25px;
     font-weight: 600px;
     }
@@ -63,7 +63,7 @@ body {
 }
 
 .title-text {
-    margin-top: 1em;
+    margin-top: 3px;
         font-weight: 600;
 }
 
