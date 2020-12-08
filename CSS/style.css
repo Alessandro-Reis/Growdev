@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(109, 31, 182);
+    text-align: justify;
+    font-size: 20px;
+}
+.texto-vermelho {
+    color: red;
+}
+
+#linha3 {
+    color: royalblue;
+    font-size: 25px;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}

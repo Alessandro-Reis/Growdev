@@ -1,0 +1,7 @@
+div {
+    border: 5px solid black;
+    margin: 50px;
+/* Top, Right, Bottom, Left */
+    padding: 25px 50px 75px 100px;
+
+}

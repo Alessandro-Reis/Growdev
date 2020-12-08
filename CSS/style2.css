@@ -1,0 +1,23 @@
+h1 {
+    background-color: salmon;
+}
+div {
+    height: 50px;
+    width: 200px;
+    background-color: brown;
+}
+/* Estilo do Quadro Principal */
+#quadro2 {
+    opacity: 0.6;
+    background-color: red
+}
+
+#quadro3 {
+    opacity: 0.8;
+    background-color: orangered
+}
+
+#quadro4 {
+    opacity: 1.0;
+    background-color: pink
+}

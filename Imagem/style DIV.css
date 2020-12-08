@@ -1,0 +1,12 @@
+#quadro {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    margin: 50px auto;
+    background-image: url("./empresas.jpg");
+    background-size: cover;
+    background-blend-mode: luminosity;
+    border: 5px solid blue;
+    border-radius: 20px;
+
+}
