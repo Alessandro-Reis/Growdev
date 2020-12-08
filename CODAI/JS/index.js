@@ -1,5 +1,5 @@
-var nome ="Marcelo Eltz";
-var cargo ="CTO - Growdev";
+var nome ="Alessandro Reis";
+var cargo ="Developer";
 
 var nomeHtml = document.getElementById("nome-no-html");
 var cargohtml = document.getElementById("cargo-no-html");
