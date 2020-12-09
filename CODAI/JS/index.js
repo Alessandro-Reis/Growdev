@@ -18,17 +18,20 @@ function logarNome(){
     console.log(nome);
 }
 
-function CliqueNoSobre() {
-    console.log("Clicou no botão sobre");
-    texto1.style.display = "block";
-    texto2.style.display = "none";
-}
-
-function CliqueNoProjetos() {
+function cliquenoprojetos(){
     console.log("Clicou no botão projetos");
     texto2.style.display = "block";
     texto1.style.display = "none";
 }
 
+function cliquenosobre(){
+    console.log("Clicou no botão sobre");
+    texto1.style.display = "block";
+    texto2.style.display = "none";
+}
+
 colocarNomeNoHtml(nome);
 colocarCargoNoHtml(cargo);
+
+
+
