@@ -19,13 +19,13 @@ function logarNome(){
 }
 
 function cliquenoprojetos(){
-    console.log("Clicou no botão projetos");
+    console.log("Clicou no botão projetos")
     texto2.style.display = "block";
     texto1.style.display = "none";
 }
 
 function cliquenosobre(){
-    console.log("Clicou no botão sobre");
+    console.log("Clicou no botão sobre")
     texto1.style.display = "block";
     texto2.style.display = "none";
 }
