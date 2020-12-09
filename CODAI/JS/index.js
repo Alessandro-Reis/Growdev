@@ -18,16 +18,16 @@ function logarNome(){
     console.log(nome);
 }
 
-function CliqueNoProjetos(){
-    console.log("Clicou no botão projetos");
-    texto2.style.display = "block";
-    texto1.style.display = "none";
-}
-
-function CliqueNoSobre(){
+function CliqueNoSobre() {
     console.log("Clicou no botão sobre");
     texto1.style.display = "block";
     texto2.style.display = "none";
+}
+
+function CliqueNoProjetos() {
+    console.log("Clicou no botão projetos");
+    texto2.style.display = "block";
+    texto1.style.display = "none";
 }
 
 colocarNomeNoHtml(nome);

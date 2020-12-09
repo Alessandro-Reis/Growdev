@@ -1,6 +1,6 @@
 body {
     font-family: "poppins";
-    background-color: #F5F5F5;
+    background-color: lightgrey;
 }
 
 .container-card {
@@ -33,19 +33,19 @@ body {
 }
 
 .card-perfil {
-    background-color: #0d3f44 !important;
+    background-color: #19DEF0 !important;
     box-shadow: 0px 0px 5px #F5F5F5;
 }
 
 .botoes-card {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 #btn-sobre {
     border-radius: 50%;
     padding: 5px 25px;
-    background-color: black !important;
+    background-color: #19DEF0 !important;
     font-weight: 600;
     color: #fff !important;
 }
@@ -55,7 +55,7 @@ body {
     border-radius: 50%;
     padding: 5px 25px;
     font-weight: 600px;
-    }
+}
 
 .icon-redes-sociais {
     text-align: center;
@@ -82,7 +82,7 @@ body {
 }
 
 .links-redes-sociais i {
-    color: blue;
+    color: darkblue;
     font-size: 25px;
     padding: 10px;
 }
